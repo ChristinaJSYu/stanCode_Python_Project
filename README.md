@@ -1,10 +1,16 @@
-## *Python* Projects
+## Programming Projects
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 & SC201 courses.
+This repository holds my programming projects done during the period of stanCode, a coding bootcamp.
+
+## Artificial Intelligence Project
+
+## Machine Learning Projects
+
+## Python Projects
 
 Watch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)*
 
-## Project Source Codes:
+## Source Codes:
 - [Hangman Game](https://github.com/ChristinaJSYu/stanCode_Python_Project/tree/main/Python_Project/Hangman%20Game)
   - python semantics & syntax
 - [Weather Master](https://github.com/ChristinaJSYu/stanCode_Python_Project/tree/main/Python_Project/Weather%20Master)
