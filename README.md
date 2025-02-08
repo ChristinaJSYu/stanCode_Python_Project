@@ -1,6 +1,6 @@
-## Programming Projects
+## Python Programming Projects
 Hello there!\
-This repository holds my programming projects done during the period of stanCode, a coding bootcamp.
+This repository holds my Python programming projects done during the period of stanCode, a coding bootcamp.
 
 ## Artificial Intelligence Project
 Led a team of 3 to execute this AI project “AI Mind-Catcher: Customer Sentiment and Brand Reputation Analysis.”\
